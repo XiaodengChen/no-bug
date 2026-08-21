@@ -1,3 +1,3 @@
 # no-bug
 
-here is a bug
+here is no bug
